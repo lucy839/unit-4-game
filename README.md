@@ -6,3 +6,9 @@ Welcome to Lucy's Crystal Collector Game!
 - Each gems have its own value randomly chosen, and they change each round of game
 - You have to click each gem to reach the random number that computer chose
 - If you go over the number, you will lose and new number will be chosen
+
+## Link
+- https://lucy839.github.io/unit-4-game/
+
+## Demo
+- ![Alt text](assets/images/demo.png?raw=true  "demo")
